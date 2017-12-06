@@ -1,0 +1,1 @@
+javascript:document.documentElement.webkitRequestFullscreen()
